@@ -21,4 +21,4 @@ Working in Figma? The same 120 are on [Figma Community](https://www.figma.com/co
 
 ### <img src="https://raw.githubusercontent.com/iconi-to/free-food/main/ramen.svg" width="24" height="24" align="top"> The full library
 
-[iconi.to](https://iconi.to) has 800+ food icons in two collections, Classic and Mini, and it keeps growing. [Pro](https://iconi.to/pricing) gets you every one of them as SVG, plus a color icon font and a CDN kit.
+[iconi.to](https://iconi.to) has 800+ food icons in two collections, Classic and Mini, and it keeps growing. [Packs](https://iconi.to/packs) are $9 each and yours to keep. [Pro](https://iconi.to/pricing) is $96 a year, with no monthly plan, and gets you every pack plus 300 credits a year for your own icons. And if an icon isn't there, we'll [draw it for you](https://iconi.to/custom/new) in minutes.
